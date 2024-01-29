@@ -1,2 +1,2 @@
-# summer_data_structs
-Summer data structure course
+# Data structure practice and project
+
